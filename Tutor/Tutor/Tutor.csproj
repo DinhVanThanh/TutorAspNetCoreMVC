@@ -154,8 +154,14 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Address.cs" />
+    <Compile Include="Models\Class.cs" />
+    <Compile Include="Models\ClassRegistration.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Major.cs" />
     <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\Policy.cs" />
+    <Compile Include="Models\Subject.cs" />
+    <Compile Include="Models\Tuition.cs" />
     <Compile Include="Models\Tutor.cs" />
     <Compile Include="Models\TutorDBContext.cs" />
     <Compile Include="Models\TutorType.cs" />
